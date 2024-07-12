@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello Test 2
 
 Test feature t?o branch m?i và merge
+=======
+Hello Test 3
+>>>>>>> feature2
