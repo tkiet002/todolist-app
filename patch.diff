@@ -1,0 +1,31 @@
+From 112e5eeca1b97897d7c0d106de97281863bc8b01 Mon Sep 17 00:00:00 2001
+From: "May-08\\SinhVien" <asd@gmail.com>
+Date: Fri, 12 Jul 2024 09:48:35 +0700
+Subject: [PATCH] Add demo& practice save stash.txt vao github
+
+---
+ demo.txt                | 1 +
+ practice_save_stash.txt | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 100644 demo.txt
+ create mode 100644 practice_save_stash.txt
+
+diff --git a/demo.txt b/demo.txt
+new file mode 100644
+index 0000000..88fb5af
+--- /dev/null
++++ b/demo.txt
+@@ -0,0 +1 @@
++hello demo
+\ No newline at end of file
+diff --git a/practice_save_stash.txt b/practice_save_stash.txt
+new file mode 100644
+index 0000000..edb7424
+--- /dev/null
++++ b/practice_save_stash.txt
+@@ -0,0 +1 @@
++Practice save stash
+\ No newline at end of file
+-- 
+2.35.1.windows.2
+
